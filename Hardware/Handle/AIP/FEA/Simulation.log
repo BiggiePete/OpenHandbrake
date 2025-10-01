@@ -1,0 +1,24 @@
+﻿Study Static Analysis:1 started: 10/1/2025, 5:50:09 PM
+Number of configurations: 1
+Default mesh: 372 elements, 905 nodes
+Study        Worst Jacobian ratio :  1.55  on element 353 failed. 10/1/2025, 5:50:10 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 10/1/2025, 5:50:35 PM
+Number of configurations: 1
+Default mesh: 372 elements, 905 nodes
+Solution time 0.7s
+Convergence rate: 7.29%
+Problem converged 
+Study Static Analysis:1 finished: 10/1/2025, 5:50:36 PM
+Total time 0:00:01
+
+Study Static Analysis:1 started: 10/1/2025, 5:51:51 PM
+Number of configurations: 1
+Default mesh: 372 elements, 905 nodes
+Solution time 0.7s
+Convergence rate: 6.95%
+Problem converged 
+Study Static Analysis:1 finished: 10/1/2025, 5:51:52 PM
+Total time 0:00:01
+

@@ -1,0 +1,10 @@
+(module SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-CW (layer F.Cu)
+  (model "../3dmodels.3dshapes/SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-CW.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (pad 2 smd rect (at -1.6662445 0 -0) (size 1.1500103 0.6999986) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at 0.8331146 0.9499588 -0) (size 1.1500103 0.6999986) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 0.8331146 -0.9499588 -0) (size 1.1500103 0.6999986) (layers F.Cu F.Paste F.Mask))
+)
